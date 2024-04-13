@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712806286851,
+      "tag": "0000_dashing_baron_strucker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1712909203982,
+      "tag": "0002_gorgeous_cannonball",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1712911304666,
+      "tag": "0003_youthful_blackheart",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1712985824466,
+      "tag": "0004_cuddly_pretty_boy",
+      "breakpoints": true
+    }
+  ]
+}
